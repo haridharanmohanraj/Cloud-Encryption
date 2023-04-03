@@ -1,0 +1,3 @@
+.credentials
+./src/client_secret.json
+node_modules

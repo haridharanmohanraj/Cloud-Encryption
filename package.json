@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-http-client": "^1.0.1"
+  }
+}
